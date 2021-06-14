@@ -1,0 +1,16 @@
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\WeatherObserver\bin\Debug\net5.0\WeatherObserver.exe
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\WeatherObserver\bin\Debug\net5.0\WeatherObserver.deps.json
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\WeatherObserver\bin\Debug\net5.0\WeatherObserver.runtimeconfig.json
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\WeatherObserver\bin\Debug\net5.0\WeatherObserver.runtimeconfig.dev.json
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\WeatherObserver\bin\Debug\net5.0\WeatherObserver.dll
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\WeatherObserver\bin\Debug\net5.0\ref\WeatherObserver.dll
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\WeatherObserver\bin\Debug\net5.0\WeatherObserver.pdb
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\WeatherObserver\obj\Debug\net5.0\WeatherObserver.csprojAssemblyReference.cache
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\WeatherObserver\obj\Debug\net5.0\WeatherObserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\WeatherObserver\obj\Debug\net5.0\WeatherObserver.AssemblyInfoInputs.cache
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\WeatherObserver\obj\Debug\net5.0\WeatherObserver.AssemblyInfo.cs
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\WeatherObserver\obj\Debug\net5.0\WeatherObserver.csproj.CoreCompileInputs.cache
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\WeatherObserver\obj\Debug\net5.0\WeatherObserver.dll
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\WeatherObserver\obj\Debug\net5.0\ref\WeatherObserver.dll
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\WeatherObserver\obj\Debug\net5.0\WeatherObserver.pdb
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\WeatherObserver\obj\Debug\net5.0\WeatherObserver.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\ObserverByEvents\obj\Debug\net5.0\ObserverByEvents.csprojAssemblyReference.cache
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\ObserverByEvents\obj\Debug\net5.0\ObserverByEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\ObserverByEvents\obj\Debug\net5.0\ObserverByEvents.AssemblyInfoInputs.cache
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\ObserverByEvents\obj\Debug\net5.0\ObserverByEvents.AssemblyInfo.cs
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\ObserverByEvents\obj\Debug\net5.0\ObserverByEvents.csproj.CoreCompileInputs.cache
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\ObserverByEvents\bin\Debug\net5.0\ObserverByEvents.exe
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\ObserverByEvents\bin\Debug\net5.0\ObserverByEvents.deps.json
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\ObserverByEvents\bin\Debug\net5.0\ObserverByEvents.runtimeconfig.json
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\ObserverByEvents\bin\Debug\net5.0\ObserverByEvents.runtimeconfig.dev.json
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\ObserverByEvents\bin\Debug\net5.0\ObserverByEvents.dll
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\ObserverByEvents\bin\Debug\net5.0\ref\ObserverByEvents.dll
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\ObserverByEvents\bin\Debug\net5.0\ObserverByEvents.pdb
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\ObserverByEvents\obj\Debug\net5.0\ObserverByEvents.dll
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\ObserverByEvents\obj\Debug\net5.0\ref\ObserverByEvents.dll
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\ObserverByEvents\obj\Debug\net5.0\ObserverByEvents.pdb
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\ObserverByEvents\obj\Debug\net5.0\ObserverByEvents.genruntimeconfig.cache

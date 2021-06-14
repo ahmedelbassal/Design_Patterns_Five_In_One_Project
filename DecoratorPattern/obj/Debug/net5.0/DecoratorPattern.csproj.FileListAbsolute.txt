@@ -1,0 +1,16 @@
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\DecoratorPattern\bin\Debug\net5.0\DecoratorPattern.exe
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\DecoratorPattern\bin\Debug\net5.0\DecoratorPattern.deps.json
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\DecoratorPattern\bin\Debug\net5.0\DecoratorPattern.runtimeconfig.json
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\DecoratorPattern\bin\Debug\net5.0\DecoratorPattern.runtimeconfig.dev.json
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\DecoratorPattern\bin\Debug\net5.0\DecoratorPattern.dll
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\DecoratorPattern\bin\Debug\net5.0\ref\DecoratorPattern.dll
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\DecoratorPattern\bin\Debug\net5.0\DecoratorPattern.pdb
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.csprojAssemblyReference.cache
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.AssemblyInfoInputs.cache
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.AssemblyInfo.cs
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.dll
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\DecoratorPattern\obj\Debug\net5.0\ref\DecoratorPattern.dll
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.pdb
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.genruntimeconfig.cache

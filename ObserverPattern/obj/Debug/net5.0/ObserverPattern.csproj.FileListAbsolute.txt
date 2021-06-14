@@ -1,0 +1,16 @@
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\ObserverPattern\bin\Debug\net5.0\ObserverPattern.exe
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\ObserverPattern\bin\Debug\net5.0\ObserverPattern.deps.json
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\ObserverPattern\bin\Debug\net5.0\ObserverPattern.runtimeconfig.json
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\ObserverPattern\bin\Debug\net5.0\ObserverPattern.runtimeconfig.dev.json
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\ObserverPattern\bin\Debug\net5.0\ObserverPattern.dll
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\ObserverPattern\bin\Debug\net5.0\ref\ObserverPattern.dll
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\ObserverPattern\bin\Debug\net5.0\ObserverPattern.pdb
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\ObserverPattern\obj\Debug\net5.0\ObserverPattern.csprojAssemblyReference.cache
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\ObserverPattern\obj\Debug\net5.0\ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\ObserverPattern\obj\Debug\net5.0\ObserverPattern.AssemblyInfoInputs.cache
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\ObserverPattern\obj\Debug\net5.0\ObserverPattern.AssemblyInfo.cs
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\ObserverPattern\obj\Debug\net5.0\ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\ObserverPattern\obj\Debug\net5.0\ObserverPattern.dll
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\ObserverPattern\obj\Debug\net5.0\ref\ObserverPattern.dll
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\ObserverPattern\obj\Debug\net5.0\ObserverPattern.pdb
+C:\Users\AHMED EL BASAL\source\repos\design pattern labs\lab1\DesignPatternLab1\ObserverPattern\obj\Debug\net5.0\ObserverPattern.genruntimeconfig.cache
